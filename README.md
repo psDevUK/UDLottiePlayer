@@ -1,6 +1,6 @@
 # UDLottiePlayer
 UDLottieplayer takes away the complexity from Motion Design
-
+![Demo of component](/UDLottiePlayer/UDLottiePlayer.gif?raw=true "Demo of component")
 .SYNOPSIS
     Displays a Lottie Animation 
     
