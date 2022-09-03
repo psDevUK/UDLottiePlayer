@@ -1,6 +1,9 @@
 # UDLottiePlayer
 UDLottieplayer takes away the complexity from Motion Design
+
 ![Demo of component](/UDLottiePlayer/UDLottiePlayer.gif?raw=true "Demo of component")
+
+```
 .SYNOPSIS
     Displays a Lottie Animation 
     
@@ -27,3 +30,4 @@ UDLottieplayer takes away the complexity from Motion Design
 
     .EXAMPLE
     New-UDComponent -LottieURL "https://assets6.lottiefiles.com/packages/lf20_0zomy8eb.json"
+```
